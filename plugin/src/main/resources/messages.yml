@@ -1,0 +1,11 @@
+first-join:
+  title: "Привет"
+  subtitle: "Мы очень рады видеть вас на сервере"
+command:
+  not-op: "Вы не оператор"
+  not-player: "Ты не игрок"
+  location:
+    add-location: "Локация добавлена"
+mine:
+  update: "&0Обьявление: &fШахта обновлена"
+  not-allow-to-break: "&0Ошибка: &fНельзя ломать этот блок"
